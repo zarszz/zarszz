@@ -1,5 +1,8 @@
 CS student..
 
+- 🔭 I’m currently working on Go, JavaScript, and Python Projects
+- 🌱 I’m currently learning Go, Operating System, and Kubernetes
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=zarszz&show_icons=true)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
@@ -11,8 +14,7 @@ CS student..
 **zarszz/zarszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ....
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
