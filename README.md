@@ -1,6 +1,6 @@
 CS student..
 
-- 🔭 I’m currently working on Go and JavaScript Projects
+- 🔭 I’m currently working on Go and TypeScript Projects
 - 🌱 I’m currently learning Go and IoT
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zarszz&show_icons=true)
