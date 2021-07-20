@@ -1,7 +1,7 @@
 CS student..
 
-- 🔭 I’m currently working on Go and TypeScript Projects
-- 🌱 I’m currently learning Go and IoT
+- 🔭 I’m currently working on Go, PHP, and JavaScript Projects
+- 🌱 I’m currently (re)learning DSA
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zarszz&show_icons=true)
 <!--
